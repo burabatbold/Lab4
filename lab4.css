@@ -1,0 +1,26 @@
+p{
+	font-size: 1.5em;
+}
+body{
+	background-image: url(css.jpg);
+	background-position: 0% 450px;
+	background-repeat:repeat-x
+}
+.miiggaa{
+	border-width: 2px;
+	border-style: dotted;
+	border-color: green
+}
+.epTwo{
+
+	border-width: 2px;
+	border-style: dotted;
+	border-color: red
+}
+.green{
+	
+	font-size: 25px;
+
+
+}
+}
